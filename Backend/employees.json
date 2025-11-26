@@ -1,0 +1,26 @@
+[
+  {
+    "name": "venkatasatyamadhu",
+    "role": "software enginerrr",
+    "email": "madhu@gmail.com",
+    "dept": "eee"
+  },
+  {
+    "name": "madhu chodipilli",
+    "role": "deveops engineer",
+    "email": "madhu@gmail.com",
+    "dept": "ece"
+  },
+  {
+    "name": "bhargavi ballina",
+    "role": "deveops engineer",
+    "email": "bb@gmail.com",
+    "dept": "eee"
+  },
+  {
+    "name": "ramana",
+    "role": "tester",
+    "email": "ramana@gmail.com",
+    "dept": "it services"
+  }
+]

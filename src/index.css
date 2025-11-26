@@ -1,0 +1,45 @@
+
+/* .App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #d9e7ff, #f5faff);
+  padding: 20px;
+  gap: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+.fourthcontainer{
+  display: flexbox;
+  background-color: red;
+} */
+
+/* Common style for all components */
+/* .component-card {
+  width: 400px;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: 0.3s ease;
+} */
+
+/* Hover effect */
+/* .component-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+} */
+
+/* Text styles */
+/* .component-card h2 {
+  margin-bottom: 10px;
+  color: #333;
+} */
+
+/* .component-card p {
+  color: #666;
+  font-size: 18px;
+} */
+
