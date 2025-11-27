@@ -1,10 +1,11 @@
 
 import './App.css';
+import Multistate from './Multistate';
 // import Circuit from './Circuit';
 // import Operator from './Operator';
 // import CRUDComponent from './CRUDComponent';
 // import Employee from './Employee';
-import SensibleUpload from './SensibleUpload ';
+// import SensibleUpload from './SensibleUpload ';
 // import PractriceForm from './PractriceForm';
 
 // import CilckEvent from './CilckEvent';
@@ -40,11 +41,12 @@ function App() {
  return(
    <div className="App">
     <h2>Welcome to React</h2>
+    <Multistate/>
     {/* <Operator/> */}
     {/* <Circuit/> */}
     {/* <Employee/> */}
     {/* <CRUDComponent/> */}
-  <SensibleUpload/>
+  {/* <SensibleUpload/> */}
   </div>
  )
 
